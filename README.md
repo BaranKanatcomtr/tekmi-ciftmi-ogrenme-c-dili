@@ -8,7 +8,8 @@ Kullanıcın girdiği sayıyı alıp MOD işlemnin uygulayarak kalanını alıyo
 Algoritmanın çalışabilmesi için C programlama dilinin çalışabileceği program(ların) yüklü olması gereklidir.
 
 # Varyasyon
-Aynı algoritmayı Flow Chart uygulaması ile yaptım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/tekmi-ciftmi-ogrenme-flowchart
+Aynı algoritmayı Flow Chart uygulaması ile yaptım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/tekmi-ciftmi-ogrenme-flowchart<br>
+Aynı algoritmayı Python ile yaptım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/tekmi-ciftmi-ogrenme-python
 
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                        
